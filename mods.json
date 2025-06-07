@@ -1,0 +1,382 @@
+{
+  "mods": [
+    {
+      "name": "additional_lights-1.20.1-2.1.7.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/additional_lights-1.20.1-2.1.7.jar",
+      "sha1": "b8ce072a8ce63e903fda4138b03179b504058335",
+      "size": 530405
+    },
+    {
+      "name": "Animation_Overhaul-forge-1.20.x-1.3.1.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/Animation_Overhaul-forge-1.20.x-1.3.1.jar",
+      "sha1": "615384e2086b556093d28e1bd119a460a5ab533b",
+      "size": 270915
+    },
+    {
+      "name": "appleskin-forge-mc1.20.1-2.5.1.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "sha1": "81919356f84eab14258db98924b66c3c38e372b1",
+      "size": 47428
+    },
+    {
+      "name": "architectury-9.2.14-forge.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/architectury-9.2.14-forge.jar",
+      "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
+      "size": 580602
+    },
+    {
+      "name": "blur-forge-3.1.1.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/blur-forge-3.1.1.jar",
+      "sha1": "562f34155f3849463449aeb1ab54cc7064e4bc86",
+      "size": 177259
+    },
+    {
+      "name": "Boat-Item-View-Forge-1.20.1-0.0.5.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/Boat-Item-View-Forge-1.20.1-0.0.5.jar",
+      "sha1": "8367bf496550dff3c9ed957df134201d550700fc",
+      "size": 27007
+    },
+    {
+      "name": "caelus-forge-3.2.0+1.20.1.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/caelus-forge-3.2.0+1.20.1.jar",
+      "sha1": "fa834f140bf7dce7b67c29b46cb531f4309d3209",
+      "size": 40125
+    },
+    {
+      "name": "camera-forge-1.20.1-1.0.20.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/camera-forge-1.20.1-1.0.20.jar",
+      "sha1": "299cc4fa41a12a247cc73024259247574bfa5d0e",
+      "size": 299726
+    },
+    {
+      "name": "cat_jam-forge-mc1.20-1.3.1.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/cat_jam-forge-mc1.20-1.3.1.jar",
+      "sha1": "0f2471636f2b7733c0c90a39fcda926275e1b376",
+      "size": 45402
+    },
+    {
+      "name": "chat_heads-0.13.18-forge-1.20.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/chat_heads-0.13.18-forge-1.20.jar",
+      "sha1": "f775daaaa9ec1b6ec4ad0c217382f9d9a3565e18",
+      "size": 269811
+    },
+    {
+      "name": "Clumps-forge-1.20.1-12.0.0.4.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/Clumps-forge-1.20.1-12.0.0.4.jar",
+      "sha1": "97cc669f68dbe812cb77cc3631339334fc28b877",
+      "size": 20299
+    },
+    {
+      "name": "collective-1.20.1-8.3.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/collective-1.20.1-8.3.jar",
+      "sha1": "ec387c40637a330661d9f4c3e59d93efc17046a2",
+      "size": 657310
+    },
+    {
+      "name": "comforts-forge-6.4.0+1.20.1.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/comforts-forge-6.4.0+1.20.1.jar",
+      "sha1": "e7b9fe89566bb1ee013e33745f22f309f679536e",
+      "size": 382083
+    },
+    {
+      "name": "crawlondemand-1.20.x-1.0.0.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/crawlondemand-1.20.x-1.0.0.jar",
+      "sha1": "7bffbea57618b126c639894f51ddf9ef1d80a252",
+      "size": 17443
+    },
+    {
+      "name": "curios-forge-5.14.1+1.20.1.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/curios-forge-5.14.1+1.20.1.jar",
+      "sha1": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
+      "size": 398066
+    },
+    {
+      "name": "elytraslot-forge-6.4.4+1.20.1.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/elytraslot-forge-6.4.4+1.20.1.jar",
+      "sha1": "f11443ef3371fa790eb33cba1a517638a3afcb07",
+      "size": 100660
+    },
+    {
+      "name": "embeddium-0.3.31+mc1.20.1.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/embeddium-0.3.31+mc1.20.1.jar",
+      "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
+      "size": 1320675
+    },
+    {
+      "name": "Emojiful-Forge-1.20.1-4.2.0.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/Emojiful-Forge-1.20.1-4.2.0.jar",
+      "sha1": "3a715b0c8e9244a0d6aace3e3d2f863a62ddc3bc",
+      "size": 262412
+    },
+    {
+      "name": "fallingleaves-1.20.1-2.1.2.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/fallingleaves-1.20.1-2.1.2.jar",
+      "sha1": "b890536f44a5c0a49f2b1f4af91c17d948b4ef4d",
+      "size": 124212
+    },
+    {
+      "name": "geckolib-forge-1.20.1-4.7.1.3.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/geckolib-forge-1.20.1-4.7.1.3.jar",
+      "sha1": "d0b1b6b8f63af947b00cdd5f57272b26270dc90b",
+      "size": 1012499
+    },
+    {
+      "name": "GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "sha1": "1a0aaf7c33b9acb26bf75899a43e8941cac1f6e7",
+      "size": 87550
+    },
+    {
+      "name": "gravestone-forge-1.20.1-1.0.24.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/gravestone-forge-1.20.1-1.0.24.jar",
+      "sha1": "3109df55ca2d0a0d73a683628c04ccd058cc82e9",
+      "size": 316050
+    },
+    {
+      "name": "ImmersiveUI-FORGE-0.3.0.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/ImmersiveUI-FORGE-0.3.0.jar",
+      "sha1": "b2b36a49f1b8daf8d8fc0521f532fb706649c09c",
+      "size": 401514
+    },
+    {
+      "name": "jumpoverfences-forge-1.20.1-1.3.1.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/jumpoverfences-forge-1.20.1-1.3.1.jar",
+      "sha1": "48ab84f3de13f87924b595bcd0d12e94114699b8",
+      "size": 38496
+    },
+    {
+      "name": "LongerChatHistory-1.3-Forge.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/LongerChatHistory-1.3-Forge.jar",
+      "sha1": "717d1e68336519f97b7676322c98c9afe72651a0",
+      "size": 7757
+    },
+    {
+      "name": "naturalist-5.0pre2+forge-1.20.1.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/naturalist-5.0pre2+forge-1.20.1.jar",
+      "sha1": "e0ddee72643c92f2b4754fa4d24c16d79eba343a",
+      "size": 3793857
+    },
+    {
+      "name": "Necronomicon-Forge-1.6.0+1.20.1.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/Necronomicon-Forge-1.6.0+1.20.1.jar",
+      "sha1": "2ad4ffa0fb087e4467c6f7496d456fc1ac949ebf",
+      "size": 33251
+    },
+    {
+      "name": "nobz-1.2.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/nobz-1.2.jar",
+      "sha1": "06c48236c2191c101e22d4243598e08df977508a",
+      "size": 8075
+    },
+    {
+      "name": "NoChatReports-FORGE-1.20.1-v2.2.2.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/NoChatReports-FORGE-1.20.1-v2.2.2.jar",
+      "sha1": "069396e689ae887d065c8d61b7945e685fbcc65b",
+      "size": 272740
+    },
+    {
+      "name": "notenoughanimations-forge-1.9.3-mc1.20.1.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/notenoughanimations-forge-1.9.3-mc1.20.1.jar",
+      "sha1": "68e3ab1b89d39a48362a4741a50c73e7ebb2fe7a",
+      "size": 453719
+    },
+    {
+      "name": "notrample-1.20.1-1.0.1.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/notrample-1.20.1-1.0.1.jar",
+      "sha1": "2875680fdc8f00a582f441c6cd31d782bef49bd2",
+      "size": 8313
+    },
+    {
+      "name": "nyfsspiders-forge-1.20.1-2.1.1.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/nyfsspiders-forge-1.20.1-2.1.1.jar",
+      "sha1": "20783131cc63dec55036ffde84ed72c7e3c648c3",
+      "size": 178046
+    },
+    {
+      "name": "OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+      "sha1": "9eab28baff36942e1c924489e34753df10f40208",
+      "size": 424035
+    },
+    {
+      "name": "oculus-mc1.20.1-1.8.0.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/oculus-mc1.20.1-1.8.0.jar",
+      "sha1": "984f774e71790deaec674c7587bd24e0711871b2",
+      "size": 2851119
+    },
+    {
+      "name": "physics-mod-3.0.14-mc-1.20.1-forge.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/physics-mod-3.0.14-mc-1.20.1-forge.jar",
+      "sha1": "55fd84fc2c4d473b3a1fef2e585187dd7be42ba6",
+      "size": 139191552
+    },
+    {
+      "name": "pointblank-forge-1.20.1-1.9.6.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/pointblank-forge-1.20.1-1.9.6.jar",
+      "sha1": "393c622efbf3641c0ab0f7df17f9de2f49de0bd8",
+      "size": 17401034
+    },
+    {
+      "name": "responsiveshields-2.3-mc1.18-19-20.x.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/responsiveshields-2.3-mc1.18-19-20.x.jar",
+      "sha1": "51bac4566c689abe50f5016b1de3de807a1a78aa",
+      "size": 63747
+    },
+    {
+      "name": "SereneSeasons-forge-1.20.1-9.1.0.2.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/SereneSeasons-forge-1.20.1-9.1.0.2.jar",
+      "sha1": "706d3eaf79ce5b33a30f3ad1aaa88a2a4483abf6",
+      "size": 160887
+    },
+    {
+      "name": "simpleshops-1.2.2.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/simpleshops-1.2.2.jar",
+      "sha1": "8751f9a178b3002e746b2f30af75dd83281821ee",
+      "size": 135614
+    },
+    {
+      "name": "sit-1.20.1-1.3.5.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/sit-1.20.1-1.3.5.jar",
+      "sha1": "228fa17d1bbacbc3e49c20e6d9b91050011f6ee2",
+      "size": 14510
+    },
+    {
+      "name": "sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+      "sha1": "d27524e85bed0f0af83c03be46f9ca3eb02a1be9",
+      "size": 511601
+    },
+    {
+      "name": "sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+      "sha1": "7529fbf938787ed13a251cbf40936f8c29ec4b6c",
+      "size": 443978
+    },
+    {
+      "name": "sophisticatedbackpacks-1.20.1-3.23.19.1251.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/sophisticatedbackpacks-1.20.1-3.23.19.1251.jar",
+      "sha1": "bbe8377993ed18686cdbc462f88257bdf34c8e4c",
+      "size": 924306
+    },
+    {
+      "name": "sophisticatedcore-1.20.1-1.2.69.1005.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/sophisticatedcore-1.20.1-1.2.69.1005.jar",
+      "sha1": "cf12058565de6b42ad81989a344c92984be9acec",
+      "size": 1326167
+    },
+    {
+      "name": "Stackable Potions-forge-1.20.1-1.0.0.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/Stackable Potions-forge-1.20.1-1.0.0.jar",
+      "sha1": "dafaeba2507ffc8b301f62569044536e795b8404",
+      "size": 10691
+    },
+    {
+      "name": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "sha1": "3bd99fb59e8b06b04e78b5153790c1e08b2be5dc",
+      "size": 107532
+    },
+    {
+      "name": "trade-cycling-forge-1.20.1-1.0.7.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/trade-cycling-forge-1.20.1-1.0.7.jar",
+      "sha1": "b22b1bfb4381dd8f758b4e2878842c073683ca9d",
+      "size": 53897
+    },
+    {
+      "name": "usaarmyarmor-1.6.0-forge-1.20.1.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/usaarmyarmor-1.6.0-forge-1.20.1.jar",
+      "sha1": "d807e4681ef489e2b935dd616cf7257ec540d024",
+      "size": 2422960
+    },
+    {
+      "name": "villagernames-1.20.1-8.2.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/villagernames-1.20.1-8.2.jar",
+      "sha1": "249a964cc0f21c5c4dc339f4b2221eeebd6e1b4b",
+      "size": 55867
+    },
+    {
+      "name": "voicechat-forge-1.20.1-2.5.30.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/voicechat-forge-1.20.1-2.5.30.jar",
+      "sha1": "680078f43dc11b579cd36acba10613476640d164",
+      "size": 7750347
+    },
+    {
+      "name": "YungsApi-1.20-Forge-4.0.6.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/YungsApi-1.20-Forge-4.0.6.jar",
+      "sha1": "af584b690f5646c6032002b58abc4591beed3833",
+      "size": 370524
+    },
+    {
+      "name": "YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+      "sha1": "31b386b2dbaa4933e0a10ccdfb25f56da16931a6",
+      "size": 918012
+    },
+    {
+      "name": "YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+      "sha1": "67a9e1c2ff126ab54cea8e0709d178915243039e",
+      "size": 792381
+    },
+    {
+      "name": "YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+      "sha1": "4e7bf109981593061b8100bc8bf23e1c9bbcbb76",
+      "size": 387111
+    },
+    {
+      "name": "YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+      "sha1": "0b3c8556983895fea980247bb4d437ca535e7259",
+      "size": 806652
+    },
+    {
+      "name": "YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+      "sha1": "e2cbc574807a994bb9610184eb4bbfe29a6c0774",
+      "size": 492998
+    },
+    {
+      "name": "YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+      "sha1": "889cd16a93764d1d6af2e2dda5bbc286a2683e7a",
+      "size": 619255
+    },
+    {
+      "name": "YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+      "sha1": "d8e74ed19903752a97ed0e1d2b1a8bf378bc252f",
+      "size": 1033262
+    },
+    {
+      "name": "YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+      "sha1": "3730238c56edca4bb5b2238e1314aec572ced385",
+      "size": 473564
+    },
+    {
+      "name": "YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+      "sha1": "71fee574f920c6b05004f100ba07e9b8d5844169",
+      "size": 179190
+    },
+    {
+      "name": "YungsBridges-1.20-Forge-4.0.3.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/YungsBridges-1.20-Forge-4.0.3.jar",
+      "sha1": "88467fe87b95e6cf7a432822033cf74dd8586254",
+      "size": 136236
+    },
+    {
+      "name": "YungsCaveBiomes-1.20.1-Forge-2.0.5.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/YungsCaveBiomes-1.20.1-Forge-2.0.5.jar",
+      "sha1": "c0a57a7d5a0cea0297f82a482490fc1e7933695f",
+      "size": 13014967
+    },
+    {
+      "name": "YungsExtras-1.20-Forge-4.0.3.jar",
+      "downloadURL": "https://raw.githubusercontent.com/MrZenixOff/ZenWorld/refs/heads/main/manifest.json/mods/YungsExtras-1.20-Forge-4.0.3.jar",
+      "sha1": "4b2e632353a95c16a080c2e64c426480a139fbd6",
+      "size": 200341
+    }
+  ]
+}
